@@ -1,16 +1,13 @@
-# Gestion des Salles - Projet JPA/Hibernate (Faz)
+![Capture 1](images/cap1.png)
 
-Application Java JPA/Hibernate permettant la gestion des salles et de leurs utilisateurs, dans un contexte sans EJB (gestion manuelle des transactions).
+![Capture 2](images/cap2.png)
 
-## 📋 Description
+![Capture 3](images/cap3.png)
 
-Ce projet a été réalisé dans le cadre d'un TP sur la persistance Java avec JPA et Hibernate. Il met en œuvre :
+![Capture 4](images/cap4.png)
 
-- Une architecture en couches (Entités, DAO, Service, Utilitaire)
-- Un DAO générique (`DaoFaz1`) pour les opérations CRUD
-- Des DAO spécifiques (`SalleFazDao`, `Us1Dao`) avec requêtes JPQL personnalisées
-- Un orchestrateur de services (`OrchestrateurFaz`)
-- Une classe utilitaire pour la gestion de la persistance (`FazPersistance`)
-- Des tests unitaires avec JUnit 4
+![Capture 6](images/cap6.png)
 
-## 🏗️ Architecture du projet
+![Capture 7](images/cap7.png)
+
+![Capture 8](images/cap8.png)
